@@ -429,4 +429,4 @@ At this time, there are no known bugs.
 
 ## Author
 
-## Binabdool
+## ©Binabdool
